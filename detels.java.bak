@@ -1,0 +1,10 @@
+class Detels
+{
+	public static void main(String[]args)
+	{
+		System.out.println("khadir");
+		System.out.println(21);
+		System.out.println('m');
+		System.out.println(100000.5);
+	}
+}

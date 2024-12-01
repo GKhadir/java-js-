@@ -1,0 +1,14 @@
+class variable4 
+{
+		
+	public static void main(String[] args) 
+	{
+		String school_name="lfhs school";
+		char school_grade='A';
+		String school_strength="hindi"
+		
+		System.out.println("school name :"+school_name);
+		System.out.println("school grade :"+school_grade);
+		System.out.println("school strength :"+school_strength);
+	}
+}
