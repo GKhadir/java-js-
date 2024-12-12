@@ -1,0 +1,16 @@
+class triangle 
+{
+	 void tri(int base=21,int height=18)
+	{
+		;
+		double result=0.5*base*height;
+		System.out.println("area of triangle:"+result);
+	}
+	public static void main(String[] args) 
+	{
+
+		new triangle().tri();
+
+	}
+}
+

@@ -1,0 +1,19 @@
+class sectormethod
+{
+	void sector(double t,int r)
+	{
+		
+		
+		
+		double result=.05*r*r*t;
+		System.out.println("area of sector:"+result);
+	}
+	public static void main(String[] args) 
+	{
+
+		new sectormethod().sector(5,9);
+
+	}
+}
+
+
